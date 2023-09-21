@@ -1,0 +1,36 @@
+#1001fonts_728x90_970x90_970x250_320x50_Mid {
+		height: 250px;
+}
+#1001fonts_728x90_Top {
+		height: 50px;
+}
+#1001freefonts_300x250_1 {
+		height: 280px;
+}
+#1001freefonts_mobile_1 {
+		height: 280px;
+}
+@media only screen and (min-device-width: 768px) {
+	#1001fonts_728x90_Top {
+		height: 90px;
+	}
+	#1001freefonts_300x250_1 {
+		height: 250px;
+	}
+	#1001freefonts_300x250_2 {
+		height: 250px;
+	}
+	#1001freefonts_300x250_3 {
+		height: 250px;
+	}
+}
+@media only screen and (min-device-width: 1024px) {
+	#1001fonts_728x90_970x90_970x250_320x50_ATF {
+		height: 90px;
+	}
+}
+@media only screen and (min-device-width: 970px) {
+	#1001fonts_728x90_970x90_970x250_320x50_Mid {
+		height: 250px;
+	}
+}
