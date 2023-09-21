@@ -35,9 +35,3 @@ El código HTML y CSS se organizan de la siguiente manera:
 Este proyecto es parte del curso de Odin Project y se proporciona como ejemplo y práctica de desarrollo web. Los estudiantes pueden utilizar este proyecto como referencia y practicar sus habilidades de HTML y CSS.
 
 Siéntete libre de contribuir o mejorar este proyecto mediante solicitudes de extracción (pull requests). ¡Cualquier contribución es bienvenida!
-
-Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
-
----
-
-Espero que este README te ayude a documentar tu proyecto de landing page. Puedes personalizarlo aún más agregando más detalles o información específica sobre tu proyecto según sea necesario. ¡Buena suerte con tu curso en Odin Project y tu proyecto de landing page!
