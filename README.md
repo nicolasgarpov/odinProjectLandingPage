@@ -1,6 +1,6 @@
 # Proyecto de Landing Page - Odin Project
 
-Este proyecto es parte del curso de Odin Project y tiene como objetivo crear una página de aterrizaje (landing page) para la marca ficticia "Reversed Coats". La página de aterrizaje presenta una interfaz atractiva y proporciona información sobre los productos y servicios de la marca. A continuación, se describe la estructura y los aspectos clave de este proyecto.
+Este proyecto es parte del curso de Odin Project y tiene como objetivo crear una página de aterrizaje (landing page) para la marca ficticia "Reversed Coats". La página de aterrizaje presenta una interfaz atractiva y proporciona información sobre los productos de la marca. A continuación, se describe la estructura y los aspectos clave de este proyecto.
 
 ## Contenido del Repositorio
 
