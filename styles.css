@@ -5,7 +5,7 @@
 }
 
 header, footer {
-    background-color: #0e4086;
+    background-color: #0e4085;
     font-size: 22px;
     color: #e5e7eb;
     padding: 30px;
@@ -24,7 +24,7 @@ h1 {
 nav {
     display: flex;
     justify-content: space-between;
-    background-color: #0e4086;
+    background-color: #0e4085;
     padding-right: 10px;
     color: #e5e7eb;
 }
